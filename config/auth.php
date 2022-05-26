@@ -14,6 +14,7 @@ return [
     */
 
     'defaults' => [
+        'driver' => 'passport',
         'guard' => 'web',
         'passwords' => 'users',
     ],
